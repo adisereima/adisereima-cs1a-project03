@@ -11,7 +11,7 @@ import java.util.Scanner;
  * 
  * @author Foothill College, [YOUR NAME HERE]
  */
-public class GuessOrSink 
+public class GuessOrSink
 {
 	/**
 	 * Stores a 2-letter word for the user to guess. Then, prompts the user to enter 
@@ -22,7 +22,7 @@ public class GuessOrSink
 	public static void main(String[] args) 
 	{
 		// TODO: Define the necessary variables.
-		
+		System.out.println("Hello World!");
 		
 		// TODO: Define the booleans and initialize them to false.
 		

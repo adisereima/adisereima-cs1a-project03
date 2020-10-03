@@ -1,3 +1,6 @@
 // TODO: For every project run your program.
-//       Then copy and paste the output in a file titled RUN under resources folder. 
+//       Then copy and paste the output in a file titled RUN under resources
+/Library/Java/JavaVirtualMachines/jdk-15.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=49936:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/macintosh/IdeaProjects/adisereima-cs1a-project03/out/production/adisereima-cs1a-project03 game.GuessOrSink
+Hello World!
 
+Process finished with exit code 0
